@@ -47,7 +47,7 @@ defmodule OneThirteen.MixProject do
       {:machinery, "~> 1.0"},
       # Overrides (copied from the main mix.exs)
       {:hackney, "1.17.4", override: true},
-      {:telemetry, "0.4.3", override: true},
+      {:telemetry, "1.3.0", override: true},
       {:redix, "~> 1.1.4", override: true},
       {:oban, "~> 2.17"},
       {:mix_test_watch, "~> 0.3", only: [:dev, :test], runtime: false},
