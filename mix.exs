@@ -41,7 +41,7 @@ defmodule OneThirteen.MixProject do
       {:hammer_backend_redis, "~> 6.0"},
       {:hammer_plug, "~> 3.0"},
       {:distance, "~> 0.2"},
-      {:algoliax, "~> 0.7.0"},
+      {:algoliax, "~> 0.10.0"},
       {:nimble_parsec, "~> 1.1"},
       {:etag_plug, "~> 1.0"},
       {:machinery, "~> 1.0"},
