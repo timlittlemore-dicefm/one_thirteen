@@ -27,7 +27,7 @@ defmodule OneThirteen.MixProject do
       {:spandex_phoenix, "~> 1.0"},
       {:phoenix, "~> 1.6"},
       {:phoenix_html, "~> 3.0"},
-      {:phoenix_live_view, "~> 0.16.0"},
+      {:phoenix_live_view, "~> 1.0.6"},
       {:phoenix_pubsub, "~> 2.0"},
       {:plug_cowboy, "~> 2.1"},
       {:phoenix_ecto, "~> 4.0"},
